@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Xinqiao77/Xinqiao77.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xinqiao77/Xinqiao77.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Hi, I'm Xinqiao <img src="https://Xinqiao77.github.io/hsa00270_hmap2.png" width="25px">
+[![Website](https://assisi.care)]
+## Your short description
+- 🔭 I’m currently working on - AssisiCare
+- 🌱 I’m currently learning - Genome Analysis
+- 👯 I’m looking to collaborate with - oncologist
+- 💬 Ask me about - RNA-seq and scRNA-seq
+- 🥅 2020 Goal - continue my effort on precision cancer medicine 
+- ⚡ Fun fact - MTAP gene is key effector on bladder cancer, but might not on NSCLC
+<!-- ❔❔❔❔ means username in below README.md -->
+<!-- Also feel free to update second URL to any URL -->
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<!-- Optional if you have blogs -->
+## Latest blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<!-- This section you create this variables that are used above -->
+[website]: https://assisi.care
+[linkedin]: https://www.linkedin.com/in/xinqiao-zhang-43175932/
