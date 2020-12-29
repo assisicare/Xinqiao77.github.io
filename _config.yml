@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+title: AssisiCare
+email: xqzhang77030@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A paragraph describing your webpage.
+baseurl: "/blog" # the subpath of your site
+url: "assisi.care" # the base hostname & protocol for your site
+github_username: Xinqiao77
+
+# Required plugins for the theme to work properly
+plugins:
+  - jekyll-remote-theme
+  - jemoji
+
+
+sass:
+  style: compressed
+
+highlighter: rouge #selecting the highlighter, default is rouge
+
+header_pages:
+  - index.md
+  - about.md
+  - a-third-page.md
+
+# controls how big the shell and font looks
+font-size: small # options: [small] or [large]
