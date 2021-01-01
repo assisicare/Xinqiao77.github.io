@@ -8,8 +8,19 @@ github_username: Xinqiao77
 
 # Required plugins for the theme to work properly
 plugins:
-  - jekyll-remote-theme
-  - jemoji
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
 
 
 sass:
@@ -23,3 +34,4 @@ header_pages:
 
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
+
